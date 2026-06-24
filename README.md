@@ -92,6 +92,7 @@ ecommerce-sales-analysis/
 1. Open Power BI Desktop
 2. Get Data → Text/CSV → import all 5 export CSVs
 3. Build visuals using the exported data
+   ![Dashboard Preview](dashboard_preview.png)
 
 ---
 
